@@ -102,6 +102,16 @@ header .intro-text .skills {
     font-size: 1.75em;
   }
 }
+.skills_listed 
+{
+    -moz-column-count: 4;
+    -moz-column-gap: 2.5em;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 2.5em;
+     column-count: 4;
+     column-gap: 2.5em;
+}  
+
 .navbar-custom {
   background: #2C3E50;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
