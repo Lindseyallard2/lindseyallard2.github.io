@@ -102,6 +102,16 @@ header .intro-text .skills {
     font-size: 1.75em;
   }
 }
+
+iframe {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 .skills_listed 
 {
     -moz-column-count: 5;
