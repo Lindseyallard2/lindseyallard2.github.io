@@ -5,17 +5,17 @@
 body {
 	background-color: lightblue;
 	font-family: Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .toppings {
 	font-family: Roboto;
-	font-size: 12px;
+	font-size: 1em;
 }
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 2em;
 }
 nav {
 	background-color: #E8C66A;
